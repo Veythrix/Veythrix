@@ -10,7 +10,7 @@ Main : Redmi Note 10 Pro 4G (Sweet)
 
 Secondary : Redmi 9 (Lancelot)
 ## 🛠 My Skills
-![My Skills](https://skillicons.dev/icons?i=rust,kotlin,java,c)
+![My Skills](https://skillicons.dev/icons?i=rust,kotlin,java,c,linux)
 ## 🌍 Languages
    Ukrainian
 
