@@ -1,9 +1,9 @@
 ## Hi there 👋
-🔹 Android Development & Custom ROMs
+● Android Development & Custom ROMs
 
-  ● Developing Android applications.
+● Developing Android applications.
 
-  ● Porting and building custom firmware.
+● Porting and building custom firmware.
 
 🌍 Fluent in Russian, Ukrainian, and English.
 ## 📱 My Devices
