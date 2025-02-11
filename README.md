@@ -1,5 +1,5 @@
 ## Hi there 👋
-##🔹 Android Development & Custom ROMs
+## 🔹 Android Development & Custom ROMs
 
    Developing Android applications.
    Porting and building custom firmware.
